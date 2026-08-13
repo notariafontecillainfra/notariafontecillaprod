@@ -1,0 +1,6 @@
+{
+  "name": "Notaría Fontecilla",
+  "description": "Página de presentación para Notaría Fontecilla en Llanquihue",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
